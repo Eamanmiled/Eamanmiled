@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eamanmiled
 - 👀 I’m interested in eventually being employed lmao
 - 🌱 I’m currently learning lotta SQL and python and front end dev
-- 😄 Pronouns: mega/tron
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: i split my skull open 3 times 
 
 <!---
