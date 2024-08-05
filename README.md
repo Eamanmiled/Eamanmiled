@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi there! My name is @Eamanmiled and I am a combus student who is striving to know all things coding and technology!
+Hi there! My name is @Eamanmiled and I am a combus student @dcu who is striving to know all things coding and technology!
 
 ## Programming & Markup Languages(more to come)
 
